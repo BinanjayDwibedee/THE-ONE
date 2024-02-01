@@ -1,2 +1,2 @@
-# THE-ONE
+# This Tool Are Working.
 password_strength
